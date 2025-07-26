@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
