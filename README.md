@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0135-candy) |
 | [0283-move-zeroes](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0135-candy) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 ## Divide and Conquer
 |  |
