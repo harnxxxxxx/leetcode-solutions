@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0812-rotate-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0071-simplify-path) |
 ## Monotonic Stack
 |  |
 | ------- |
