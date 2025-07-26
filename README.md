@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Greedy
 |  |
 | ------- |
