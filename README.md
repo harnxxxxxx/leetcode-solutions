@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0812-rotate-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
 | ------- |
