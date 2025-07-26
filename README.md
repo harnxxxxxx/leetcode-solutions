@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0812-rotate-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0812-rotate-string) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 ## String Matching
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Greedy
+|  |
+| ------- |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 <!---LeetCode Topics End-->
