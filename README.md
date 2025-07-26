@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1034-subarrays-with-k-different-integers](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
