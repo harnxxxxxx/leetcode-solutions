@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
