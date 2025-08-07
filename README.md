@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0038-count-and-say) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0062-unique-paths) |
 ## Combinatorics
