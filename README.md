@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Combinatorics
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
