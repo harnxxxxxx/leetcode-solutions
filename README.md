@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0203-remove-linked-list-elements](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0086-partition-list) |
+| [0203-remove-linked-list-elements](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Greedy
 |  |
 | ------- |
