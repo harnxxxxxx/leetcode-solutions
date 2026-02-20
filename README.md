@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0135-candy) |
+| [0228-summary-ranges](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
