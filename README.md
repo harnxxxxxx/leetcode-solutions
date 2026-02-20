@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 ## Recursion
 |  |
 | ------- |
