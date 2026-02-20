@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
@@ -193,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0197-rising-temperature) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
