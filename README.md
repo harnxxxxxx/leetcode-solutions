@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0228-summary-ranges) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/harnxxxxxx/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Recursion
 |  |
 | ------- |
